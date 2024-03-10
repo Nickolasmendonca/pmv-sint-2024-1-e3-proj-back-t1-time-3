@@ -12,11 +12,11 @@ Definindo as partes deste modelo temos primeiramentre o model, que tem a resonsa
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
-![Diagram de Classe](img/diagramaDeClasseUml.jpeg)
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
+Abaixo segue o diagrma de classe elaborado para experssar este projeto:
 
-> -  [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> -  [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+![Diagram de Classe](img/diagramaDeClasseUml.jpeg)
+
+
 
 ## Modelo ER
 
