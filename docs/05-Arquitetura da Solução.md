@@ -6,6 +6,9 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ![Arquitetura da Solução](img/arch-back.JPG)
 
+O modelo utilizando aqui sera o MVC (model - view - controller), o principal conceito aborodado por esse modelo é fazer a utilização de uma solução já definidade para que partes distiandas do projeto sejam separadas e com isso reduzir ao máximo suas dependencendias.
+Definindo as partes deste modelo temos primeiramentre o model, que tem a resonsabilidade dos models e representar o negíocio, essa parte também é responsável pela manipulção e acessos de dados utilizados na aplicação. A view é demonstrada como a interface apresentada ao usuário e apresenta informações do model ao usuário. Por fim temos o controller que é a camada de controle, ela liga o model ao view fazendo com que os models possam ser repassados para as views e também o caminho inverso.
+
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
